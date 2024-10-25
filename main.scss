@@ -19,6 +19,15 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
+h1{
+  content: semangat ya cantik;
+  font-family: monospace;
+  font-size: 15 rem;
+  color:transparent;
+  -webkit-text-stroke: 0.3rem #fff;
+  text-transform: uppercase;
+  position:relative;
+}
 
 .night {
   position: fixed;
