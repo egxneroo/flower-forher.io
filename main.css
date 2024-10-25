@@ -37,6 +37,9 @@ h1::before{
   overflow: #000000;
   transition: 1s ease-in-out;
 }
+h1 semangat ya cantik::before{
+  width: 100%;
+}
 .night {
   position: fixed;
   left: 50%;
